@@ -18,6 +18,7 @@ body{
     align-items: center;
     justify-content: center;
     padding-block: 30px;
+    padding-inline: 30px;
     /* width: 350px; */
     background: #ecf0f3;
     border-radius: 10px;
